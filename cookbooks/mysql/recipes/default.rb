@@ -7,10 +7,10 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package "mysql-server" do
+package "mariadb-server" do
 end
 
-package "mysql" do
+package "mariadb" do
 end
 
 
